@@ -1,0 +1,5 @@
+{
+  "privateKey": "gkvekgvcyuvocyr42rc45151r425c1r4152c1r45",
+  "port": "3000",
+  "mongo_url": "mongodb://localhost:27017/art-bank"
+}
